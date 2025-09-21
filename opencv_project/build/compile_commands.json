@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zhanruixuan/repos/code/opencv1/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/cop.dir/main.cpp.o -c /home/zhanruixuan/repos/code/opencv1/main.cpp",
+  "file": "/home/zhanruixuan/repos/code/opencv1/main.cpp"
+}
+]

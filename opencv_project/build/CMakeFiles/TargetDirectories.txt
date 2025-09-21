@@ -1,0 +1,3 @@
+/home/zhanruixuan/repos/code/opencv1/build/CMakeFiles/cop.dir
+/home/zhanruixuan/repos/code/opencv1/build/CMakeFiles/edit_cache.dir
+/home/zhanruixuan/repos/code/opencv1/build/CMakeFiles/rebuild_cache.dir

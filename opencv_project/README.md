@@ -1,0 +1,1 @@
+按照AI指示安装opencv，并在组长博客学习了将opencv库链接到cmakelist的方式，在ppt中学习了opencv编写代码的方式，中间遇到获取opencv路经问题，最终问学长找到正确路径，并通过AI学习保存图片的方式
